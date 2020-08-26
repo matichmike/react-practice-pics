@@ -1,3 +1,23 @@
+# Pictures search tool
+Small pictures search tool using Unsplash API
+The app is deployed at Netlify, please click [HERE](https://goofy-hypatia-100760.netlify.app)
+
+## Preview
+![“Sample Search 1”](https://github.com/matichmike/react-practice-pics/blob/master/screenshots/guitarSearch.png?raw=true)
+<br/>
+<br/>
+!["Sample Search 2"](https://github.com/matichmike/react-practice-pics/blob/master/screenshots/flowerSearch.png?raw=true)
+<br/>
+<br/>
+
+
+## Setup 
+* Clone or Copy the repository
+* npm install
+* npm start
+* run http://localhost:3000/ in browser
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
